@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+using namespace std;
 
 int string_to_int(char *str)
 {
