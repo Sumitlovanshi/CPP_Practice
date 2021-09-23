@@ -1,4 +1,5 @@
 #include<stdio.h>
+//instinct
 #define pi 3.14
 void main()
 {
